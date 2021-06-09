@@ -5,6 +5,11 @@ simple save/load(binary format) for unity
 windows, ios, android
 
 ## function:
+- ZIP archive
+- Encryption
+- With CheckSum
+
+## methods:
 binarySaveData.Save()  
 binarySaveData.Load()  
 binarySaveData.Delete()
