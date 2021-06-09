@@ -1,8 +1,5 @@
 # binarySaveLoad
-simple save/load(binary format) for unity
-
-## supported os
-windows, ios, android
+**simple save/load(binary format) for unity**
 
 ## function
 - ZIP archive
@@ -13,6 +10,9 @@ windows, ios, android
 binarySaveData.Save()  
 binarySaveData.Load()  
 binarySaveData.Delete()
+
+## supported os
+windows, ios, android
 
 ## usage
 SampleScene.unity
