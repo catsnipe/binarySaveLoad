@@ -1,20 +1,20 @@
 # binarySaveLoad
 simple save/load(binary format) for unity
 
-## Supported os:
+## supported os
 windows, ios, android
 
-## function:
+## function
 - ZIP archive
 - Encryption
 - With CheckSum
 
-## methods:
+## methods
 binarySaveData.Save()  
 binarySaveData.Load()  
 binarySaveData.Delete()
 
-## usage:
+## usage
 SampleScene.unity
 
 see more details: https://www.create-forever.games/unity-saveload-binary/
