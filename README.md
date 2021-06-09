@@ -6,7 +6,7 @@ windows, ios, android
 
 ## function:
 binarySaveData.Save()  
-binarySaveData.Load()
+binarySaveData.Load()  
 binarySaveData.Delete()
 
 ## usage:
